@@ -1,1 +1,7 @@
-
+-👋 Hi, I'm Ajwa Shahid
+- 🎓 BS Computer Science Student @ FAST National University
+- 💻 Learning C++, Python, HTML, CSS & Git
+- 🚀 Building projects in C++, Python & Web Development
+- 💡 Interested in AI, Cybersecurity & Software Development
+- 🌐 Portfolio: https://ajwashahid150-source.github.io/Portfolio/
+- 📫 Contact: ajwashahid150@gmail.com
