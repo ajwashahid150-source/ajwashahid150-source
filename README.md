@@ -1,4 +1,4 @@
-# 🌌 Ajwa Shahid | Dev Profile
+# 🌌 Ajwa Shahid | BS_CS FAST National University
 
 <img src="dark.svg" alt="Ajwa Shahid | Cyber Terminal" width="100%">
 
