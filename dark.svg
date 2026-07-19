@@ -269,7 +269,7 @@
 
       <!-- Overlay HUD identity badge -->
       <rect x="25" y="475" width="200" height="20" rx="4" fill="#031124" fill-opacity="0.85" stroke="#00f5ff" stroke-opacity="0.3" stroke-width="1"/>
-      <text x="125" y="489" fill="#00f5ff" font-size="9" text-anchor="middle" font-weight="bold" opacity="0.9">AJWA_SHAHID // DEV_ID</text>
+      <text x="125" y="489" fill="#00f5ff" font-size="9" text-anchor="middle" font-weight="bold" opacity="0.9">AJWA_SHAHID // FAST_CS</text>
     </g>
 
     <!-- Floating Particles in portrait card -->
