@@ -1,12 +1,9 @@
 # 🌌 Ajwa Shahid | Dev Profile
 
 <img src="dark.svg" alt="Ajwa Shahid | Cyber Terminal" width="100%">
-# ajwashahid150
 
 
  💫 About Me:
-
-
 👋 Hi, I'm Ajwa Shahid<br><br>🎓 BS Computer Science Student @ FAST National University<br>💻 Learning C++, Python, HTML, CSS & Git<br>🚀 Building projects in C++, Python & Web Development<br>💡 Interested in AI, Cybersecurity & Software Development<br>🌐 Portfolio: https://ajwashahid150-source.github.io/Portfolio/<br>📫 Contact: ajwashahid150@gmail.com
 
 
